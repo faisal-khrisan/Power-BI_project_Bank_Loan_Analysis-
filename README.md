@@ -1,4 +1,4 @@
-# 📊 Bank Loan Analysis Dashboard
+
 
 ## 📃 Executive Summary
 This Power BI project provides a comprehensive analysis of a bank's lending portfolio, designed to support data-driven financial decisions. By transforming raw lending data into an interactive dashboard, this tool enables stakeholders to monitor portfolio health, identify high-risk borrowers, and track regional lending trends.
